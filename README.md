@@ -11,4 +11,4 @@ Se hizo uso de POO al usar la clase Mascota y la lista de clase lstMascota para 
 Aparte de ya tener dos mascotas que sirven para la comprobacion del programa, el usuario puede listar o registrar una mascota. En el caso de que haya registrado una mascota podra entonces seleccionar con que mascotas realizar match, eliminandola de las listas de posibles match.
 
 ## Mensaje Final
-Feliz navidad profe y compañeros! c:
+Feliz navidad profe y compañeros! :christmas_tree:
